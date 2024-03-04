@@ -16,8 +16,8 @@ Creator : @felix , @felixmd
 */
 
 module.exports = {
-  OWNER_NUMBER: "919517641203",
-  SUDO_NUMBERS : "919517641203",
+  OWNER_NUMBER: "918127875972",
+  SUDO_NUMBERS : "918127875972",
   OWNER_NAME: "『 Բᥱȴιꪎ 』",
   BOT_NAME : "Բᥱȴιꪎ",
   ZUSYCO_FILE : "ZUSYCO-QR",
