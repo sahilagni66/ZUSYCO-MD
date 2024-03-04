@@ -54,7 +54,7 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
