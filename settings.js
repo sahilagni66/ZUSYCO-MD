@@ -48,8 +48,8 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
+     ALL_MESSAGES : false,
+     ONLY_COMMANDS : true,
      STATUS : false,
   },
   BOT_OFFLINE : false,
